@@ -1,0 +1,15 @@
+/Users/robertflatters/Projects/Thete/Thete/bin/Debug/net7.0/Thete
+/Users/robertflatters/Projects/Thete/Thete/bin/Debug/net7.0/Thete.deps.json
+/Users/robertflatters/Projects/Thete/Thete/bin/Debug/net7.0/Thete.runtimeconfig.json
+/Users/robertflatters/Projects/Thete/Thete/bin/Debug/net7.0/Thete.dll
+/Users/robertflatters/Projects/Thete/Thete/bin/Debug/net7.0/Thete.pdb
+/Users/robertflatters/Projects/Thete/Thete/obj/Debug/net7.0/Thete.csproj.AssemblyReference.cache
+/Users/robertflatters/Projects/Thete/Thete/obj/Debug/net7.0/Thete.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertflatters/Projects/Thete/Thete/obj/Debug/net7.0/Thete.AssemblyInfoInputs.cache
+/Users/robertflatters/Projects/Thete/Thete/obj/Debug/net7.0/Thete.AssemblyInfo.cs
+/Users/robertflatters/Projects/Thete/Thete/obj/Debug/net7.0/Thete.csproj.CoreCompileInputs.cache
+/Users/robertflatters/Projects/Thete/Thete/obj/Debug/net7.0/Thete.dll
+/Users/robertflatters/Projects/Thete/Thete/obj/Debug/net7.0/refint/Thete.dll
+/Users/robertflatters/Projects/Thete/Thete/obj/Debug/net7.0/Thete.pdb
+/Users/robertflatters/Projects/Thete/Thete/obj/Debug/net7.0/Thete.genruntimeconfig.cache
+/Users/robertflatters/Projects/Thete/Thete/obj/Debug/net7.0/ref/Thete.dll
